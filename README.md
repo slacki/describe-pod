@@ -12,7 +12,7 @@ To make use of this image, you need to set environment variables when deploying 
 
 ## Official image
 
-
+https://hub.docker.com/r/shutah/describe-pod
 
 ## Licence
 
