@@ -4,7 +4,7 @@ This Docker image contains a Golang webserver that prints all environment variab
 
 ## Motivation
 
-When testing load balancers for Kubernetes I wanted to see how my traffic was used. I thought this would be the simplest solution.
+When testing load balancers for Kubernetes I wanted to see how my traffic was routed. I thought this would be the simplest solution.
 
 ## Pod configuration
 
@@ -16,4 +16,4 @@ https://hub.docker.com/r/shutah/describe-pod
 
 ## Licence
 
-You can find licence in LICENCE.md.
+See LICENCE.md file.
